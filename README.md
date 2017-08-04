@@ -1,0 +1,1 @@
+This is a basic to-do list in javascript that I put together. Nothing more, nothing less.
